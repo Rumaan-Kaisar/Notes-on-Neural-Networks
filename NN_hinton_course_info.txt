@@ -125,3 +125,13 @@ Chapter 16
 16.4 — The fog of progress
 
 
+links:
+http://karpathy.github.io/neuralnets/
+https://karpathy.ai/
+lecture notes: http://cs231n.github.io/
+http://research.microsoft.com/apps/video/default.aspx?id=259574
+http://cs231n.stanford.edu/2016/syllabus.html
+http://cs231n.stanford.edu/slides/2016/
+http://cs231n.stanford.edu/slides/2022/
+
+
