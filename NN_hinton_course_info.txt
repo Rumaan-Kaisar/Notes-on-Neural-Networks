@@ -1,4 +1,10 @@
 
+Courses:
+	1. NN Hinton
+	2. CS231n NN for comp vsn + Karpathy projects
+	3.
+
+
 Chapter 1
 1.1 — Why do we need machine learning
 1.2 — What are neural networks
