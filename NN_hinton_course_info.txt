@@ -141,3 +141,4 @@ http://cs231n.stanford.edu/slides/2016/
 http://cs231n.stanford.edu/slides/2022/
 
 
+Other tutorial: http://ufldl.stanford.edu/tutorial/
